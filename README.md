@@ -10,6 +10,8 @@ This is Power BI Dashboard which tells the insights on Ott platforms such as Net
 
 My Datasets links are
 
-Netflix Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows
-Amazon Prime Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
-Hotstar Dataset - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows]
+<h2>Netflix Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows</h2>
+
+<h2>Amazon Prime Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows</h2>
+
+<h2>Hotstar Dataset - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows]</h2>
