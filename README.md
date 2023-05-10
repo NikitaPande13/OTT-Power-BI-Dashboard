@@ -17,11 +17,12 @@ This is Power BI Dashboard which tells the insights on Ott platforms such as Net
 <h2>Hotstar Dataset - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows]</h2>
 
   <h2> My Dashbaords Snaps are </h2>
-![Netflix Dashboard](https://github.com/NikitaPande13/OTT-Power-BI-Dashboard/assets/106645403/1dd59008-064b-4e5a-9dbd-3e844f3db3d6)
+
   
 ![Amazon Prime Dashboard](https://github.com/NikitaPande13/OTT-Power-BI-Dashboard/assets/106645403/0b59ea67-915b-4257-bb6b-f1f15561f6b0)
   
  ![Disney Dashboard](https://github.com/NikitaPande13/OTT-Power-BI-Dashboard/assets/106645403/c41ac5ca-7f9e-411d-87de-20995346fc11)
+  
   ![Netflix Dashboard](https://github.com/NikitaPande13/OTT-Power-BI-Dashboard/assets/106645403/cc7e1925-be35-4c0a-876e-3fdc90bcf565)
 
 
