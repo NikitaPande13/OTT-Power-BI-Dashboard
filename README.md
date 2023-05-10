@@ -9,4 +9,7 @@ This is Power BI Dashboard which tells the insights on Ott platforms such as Net
 -- Whether you're a business analyst, a product manager, or a content creator, this Power BI dashboard provides valuable insights into the performance of your OTT platform, helping you make data-driven decisions to drive growth and improve user engagement.
 
 My Datasets links are
-[]
+
+Netflix Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows
+Amazon Prime Dataset - https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows
+Hotstar Dataset - https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows]
